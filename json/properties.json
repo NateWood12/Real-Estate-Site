@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1,
+        "address": "101 SW Western Blvd",
+        "beds": 5,
+        "baths": 3.5,
+        "sqft": "3,328",
+        "description": "A beautiful home with a spacious backyard.",
+        "developer": "Jimmy Jog",
+        "highlights": ["Parking", "Outdoor", "Heating & A/C", "HOA: None", "Listing Date: 12/18/2019", "$/SqFt: $200"],
+        "interiorDetails": ["Basement", "Living Room", "Recreation Room"],
+        "taxes": [{"year": 2024, "tax": "8,089", "assessment": "316,956"}],
+        "price": "$500,000",
+        "images": [
+            "./Images/Home 1/01.jpg",
+            "./Images/Home 1/02.jpg",
+            "./Images/Home 1/03.jpg",
+            "./Images/Home 1/04.jpg",
+            "./Images/Home 1/05.jpg",
+            "./Images/Home 1/06.jpg",
+            "./Images/Home 1/07.jpg",
+            "./Images/Home 1/08.jpg",
+            "./Images/Home 1/09.jpg",
+            "./Images/Home 1/10.jpg",
+            "./Images/Home 1/11.jpg",
+            "./Images/Home 1/12.jpg",
+            "./Images/Home 1/13.jpg",
+            "./Images/Home 1/14.jpg",
+            "./Images/Home 1/15.jpg",
+            "./Images/Home 1/16.jpg"
+        ],
+        "similarHomes": [
+            { "id": 2, "address": "14194 Newton Town Rd", "price": "782,700", "beds": 5, "baths": 3.75, "sqft": "5,218" },
+            { "id": 3, "address": "789 Oak St", "price": "280,000", "beds": 3, "baths": 2, "sqft": "1,600" }
+        ]
+    },
+
+    {
+        "id": 2,
+        "address": "14194 Newton Town Rd",
+        "beds": 5,
+        "baths": 3.75,
+        "sqft": "5,218",
+        "description": "What once was a barn is now a huge lovely home with a rustic interior design. This property includes an In-law house, 3 car garage, 10 car parking lot, all with the gorgeous renovated barn house. This house is banked into a hill but has elevated ceilings, indoor balcony, custom breakfast bar, and all the space you would need.",
+        "developer": "Barn Rennovation Organization",
+        "highlights": ["Garage", "Outdoor Fireplace", "Central Air Conditioning", "HOA: None", "Listing Date: 01/02/2023", "$/SqFt: $150"],
+        "interiorDetails": ["Full Basement, Exterior Entry", "Game Room", "Theatre Room", "Trophy Room", "Storage Room", "2 Living Rooms", "2 Kitchens/Dining Rooms", "Office", "Man Cave"],
+        "taxes": [{"year": 2022, "tax": "$15,654", "assessment": "$496,200"}],
+        "price": "$782,700",
+        "images": [
+            "./Images/similarHomes/Barn Renovation Organization/03.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/02.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/01.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/04.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/05.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/06.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/07.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/08.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/09.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/10.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/11.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/12.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/13.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/14.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/15.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/16.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/16.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/17.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/18.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/19.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/20.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/21.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/22.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/23.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/24.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/25.jpg",
+            "./Images/similarHomes/Barn Renovation Organization/26.jpg"
+        ],
+        "similarHomes": [
+            { "id": 1, "address": "101 SW Western Blvd", "price": "300,000", "beds": 5, "baths": 3.5, "sqft": "3,328" },
+            { "id": 3, "address": "789 Oak St", "price": "280,000", "beds": 2, "baths": 2.5, "sqft": "4,536" }
+        ]
+    },
+    
+
+    {
+        "id": 3,
+        "address": "789 Oak St",
+        "beds": 2,
+        "baths": 2.5,
+        "sqft": "4,536",
+        "description": "Previously a barn, this charming home now features a welcoming atmosphere with vaulted ceilings, a finished basement, and large cathedral arch windows. The property boasts a spacious yard, pond, and wooded area.",
+        "developer": "Jimmy Jog",
+        "highlights": [
+            "4-Car Garage", 
+            "Patio", 
+            "Geothermal Heating, Solar Panels", 
+            "HOA: None", 
+            "Listing Date: 12/25/22", 
+            "$/SqFt: $150"
+        ],
+        "interiorDetails": [
+            "Full Basement with Exterior Entry", 
+            "Kitchen", 
+            "Living Room", 
+            "Dining Room", 
+            "Beds & Baths"
+        ],
+        "taxes": [
+            { 
+                "year": 2022, 
+                "tax": "$1,217", 
+                "assessment": "$431,000" 
+            }
+        ],
+        "price": "$680,000",
+        "images": [
+            "./Images/SimilarHomes/Bil & Law Architecture/01.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/02.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/03.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/04.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/05.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/06.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/07.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/08.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/09.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/10.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/11.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/12.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/13.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/14.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/15.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/16.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/17.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/18.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/19.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/20.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/21.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/22.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/23.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/24.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/25.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/26.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/27.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/28.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/29.jpg",
+            "./Images/SimilarHomes/Bil & Law Architecture/30.jpg"
+
+        ],
+        "similarHomes": [
+            { "id": 2, "address": "456 Maple St", "price": "320,000", "beds": 5, "baths": 3.5, "sqft": "3,328" },
+            { "id": 1, "address": "101 SW Western Blvd", "price": "300,000", "beds": 3, "baths": 2, "sqft": "1,500" }
+        ]
+    }
+    
+    
+]
+

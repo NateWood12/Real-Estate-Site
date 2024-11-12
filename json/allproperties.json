@@ -1,0 +1,330 @@
+
+{
+	"Barn Brothers" : {
+		"Address" : "101 SW Western Blvd, Corvallis, OR 97333",
+		"Total Cost" : "$500,000",
+		"Total Cost Int" : 500000,
+		"Short Description" : {"beds": 5, "baths" : 3.5, "sqft": 3334},
+		"Long Description" : "This house is a very nice family home. This house has a lot of starage and and a sauna and a movie theater room. Also the house is on a hill not crowded with other house and in the country. Has a big back yard and a wrap around front porch",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d815.8067477986793!2d-106.53703313578791!3d35.12600859534286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87227557938908eb%3A0x723dd3cf63dbb051!2s3828%20Piermont%20Dr%20NE%2C%20Albuquerque%2C%20NM%2087111!5e0!3m2!1sen!2sus!4v1674496485968!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6526.45398882412!2d-106.54087540526388!3d35.12600851504304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschool!5e0!3m2!1sen!2sus!4v1674496529574!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6526.454001435586!2d-106.54089686316917!3d35.12600835766182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674496557708!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "Garage",
+			"Outdoor" : "Porch",
+			"AC" : "Both",
+			"HOA" : "None",
+			"Listed" : "12 days ago",
+			"Price/sqft": "$150"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full, Exterior Entry",
+				"Rooms" : 4,
+				"Types of rooms" : ["Theater Room ", " Utility Room ", " Storage Room ", " Lounge Room"],
+				"Bedrooms" : 5,
+				"Bathrooms" : 3.5,
+				"Bathrooms (full)" : "3",
+				"Dimensions & Layout" : "3,328 sqft"
+			}
+		},
+		"Year" : 2022,
+		"Property Tax" : "$8,089",
+		"Assessment" : "$316,956",
+		"image path" : "Barn Brothers",
+		"image count" : 27,
+		"comment" : "Note that the image count means that images 01.jpg through 16.jpg exist in the Barn Brothers directory. Images 01 through 03 will be showcase images. The rest will appear in the slideshow, which will be created via loop",
+		"comment2" : "similar is an array of ids that are like the one here",
+		"status" : "DONE"
+	},
+
+	"Barn Rennovation Organization" : {
+		"Address" : "14194 Newton Town Rd",
+		"Total Cost" : "$782,700",
+		"Total Cost Int" : 782700,
+		"Short Description" : {"beds": 5, "baths" : 3.75, "sqft": 5218},
+		"Long Description" : "What once was a barn is now a huge lovely home with a rustic interior design. This property includes an In-law house, 3 car garage, 10 car parking lot, all with the georgouse renovated barn house. This house is banked into a hill but has elevated ceilings, indoor balcony, custom breakfast bar, and all the space you would need.",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2980.44999735175!2d-79.76265708456545!3d41.66762397923951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8832e9c9b2212b5d%3A0xce412b5d928ddacb!2s14194%20Newton%20Town%20Rd%2C%20Centerville%2C%20PA%2016404!5e0!3m2!1sen!2sus!4v1674667418483!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d190601.0306887836!2d-79.87360871281926!3d41.71747391954905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschools!5e0!3m2!1sen!2sus!4v1674667482896!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d190600.0151114845!2d-79.87360888517861!3d41.71781635632237!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674668187112!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "Garage",
+			"Outdoor" : "Fireplace",
+			"AC" : "Central Air Conditioning",
+			"HOA" : "None",
+			"Listed" : "January 2, 2023",
+			"Window" : "Large Octogonal Window",
+			"Layout" : "Open Interior Layout",
+			"Price/sqft": "$150"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full, Exterior Entry",
+				"Rooms" : 10,
+				"Types of rooms" : ["Game Room", " Theatre Room", " Trophy Room", " Storage Room", " 2 Living Rooms", " 2 Kitchens/Dinning Rooms", " Office", " Man Cave"],
+				"Bedrooms" : 5,
+				"Bathrooms" : 3.75,
+				"Bathrooms (full)" : 2,
+				"Dimensions & Layout" : "5,218 sqft"
+			}
+		},
+		"Year" : 2022,
+		"Property Tax" : "$15,654",
+		"Assessment" : "$496,200",
+		"image path" : "Barn Rennovation Organization",
+		"image count" : 30,
+		"comment" : "Note that the image count means that images 01.jpg through 16.jpg exist in the Barn Brothers directory. Images 01 through 03 will be showcase images. The rest will appear in the slideshow, which will be created via loop",
+		"status" : "DONE"
+	},
+
+	"Beyond Barn Architecture" : {
+		"Address" : "7371 PA-832 Fairview, Pa 16415",
+		"Total Cost" : "$680,000",
+		"Total Cost Int" : 680000,
+		"Short Description" : {"beds" : 2, "baths" : 2.5, "sqft" : 4536},
+		"Long Description" : "What was once previously a barn has transformed into a comfortable, welcoming home. The house was a large yard in both the back and front, with a pond, and a large wooded area. The house features vaulted cielings and two large cathedral arch windows on the main floor and has a finished basement.",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23721.652013780127!2d-80.24105765884676!3d41.99584356165154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88327ecfa9a21d2b%3A0xe5caddbd69fa2918!2sPA-832%2C%20Fairview%2C%20PA%2016415!5e0!3m2!1sen!2sus!4v1674501066291!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d23721.653005532422!2d-80.24114349291696!3d41.99584090088427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschool!5e0!3m2!1sen!2sus!4v1674501111129!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d94886.64588836917!2d-80.29388757217035!3d41.99581818599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674501144924!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "4-Car Garage",
+			"Outdoor" : "Patio",
+			"AC" : ["Geothermal Heating ", " Solar Panels"],
+			"HOA" : "None",
+			"Price/sqft": "$150",
+			"Listed" : "12/25/22"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full, Exterior Entry",
+				"Rooms" : 7,
+				"Types of rooms" : ["Kitchen ", " Living Room ", " Dining Room ", " Beds & Baths"],
+				"Bedrooms" : 2,
+				"Bathrooms" : 2.5,
+				"Bathrooms (full)" : 2,
+				"Dimensions & Layout" : "4,536 sqft"
+			}
+		},
+		"Year" : 2022,
+		"Property Tax" : "$1,217",
+		"Assessment" : "$431,000",
+		"image path" : "Beyond Barn Architecture",
+		"image count" : 38,
+		"status" : "DONE"
+	},
+
+    "Bil & Law Architecture" : {
+		"Address" : "8930 Francis Rd, Girard, Pa 16417",
+		"Total Cost" : "$536,550",
+		"Total Cost Int" : 536550,
+		"Short Description" : {"beds" : 3, "baths" : 3, "sqft" : 3577},
+		"Long Description" : "This lovely renovated barn country home has a 3 car garage. Open floor concept is seen when walking into the house with a nice L-shaped kitchen including an island. In the living room you will find the stairs that are leading up to the loft and looking over the kitchen. When going out to the kitchen you will find another room that is a very inviting sunroom. You will see the 3 bedrooms down the hall while also finding a bathroom. The basement has a very huge man-cave with a winery adjacent.",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2966.754073618686!2d-80.28213448455624!3d41.962617079215555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88326ff4da13058d%3A0xb4ad08114df37a38!2s8930%20Francis%20Rd%2C%20Girard%2C%20PA%2016417!5e0!3m2!1sen!2sus!4v1674674330253!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d47468.0186388744!2d-80.3149650774673!3d41.96267954907874!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschool!5e0!3m2!1sen!2sus!4v1674674382718!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d47467.93147315347!2d-80.31496508819792!3d41.96279655241566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674674412888!5m2!1sen!2sus",
+		"Highlights" : {"Parking" : "Garage",
+			"Outdoor" : ["backporch ", " sunroom"],
+			"AC" : "Central air",
+			"HOA" : "None",
+			"Price/sqft" : "$150",
+			"Listed" : "8 days ago"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full",
+				"Rooms" : 1,
+				"Types of rooms" : ["Man-cave"],
+				"Bedrooms" : 3,
+				"Bathrooms" : 4,
+				"Bathrooms (full)" : 2,
+				"Dimensions & Layout" : "N/A"
+			}
+		},
+		"Year" : 2022,
+		"Property Tax" : "$8,680",
+		"Assessment" : "$340,126",
+		"image path" : "Bil & Law Architecture",
+		"image count" : 35,
+		"status" : "DONE"
+	},
+
+    "Bon Jour Barns" : {
+		"Address" : "885 barkeyville Rd, Pine Township, PA 16127",
+		"Total Cost" : "$597,000",
+		"Total Cost Int" : 597000,
+		"Short Description" : {"beds" : 4, "baths" : 3.5, "sqft" : 3977},
+		"Long Description" : "A lovely 2 story house with a finished basement, located on 10.7 acres, and has a 3 car garage. A L-shaped kitchen with stainless steel appliences, granite countertops, and a ton of  accessible storage. The  laundry room, an office,  along with the master suit is offered on the first floor. The 2nd story consists of 2 beds and a Jack-and-Jill bath, along with an additional seating area, and a loft with an outlook into the main living area.",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24729.136314883286!2d-80.06378617778195!3d41.17504273801766!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88330b2dd5769da3%3A0xf9c8b7c5ff629bc2!2s885%20Barkeyville%20Rd%2C%20Grove%20City%2C%20PA%2016127!5e0!3m2!1sen!2sus!4v1674758888246!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24025.12261374147!2d-80.06378618065904!3d41.17510642697829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschools!5e0!3m2!1sen!2sus!4v1674758919696!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24025.099891478207!2d-80.06378618337462!3d41.17516838046618!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674758950712!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "Garage",
+			"Outdoor" : ["Front Porch ", " Deck"],
+			"AC" : "Central Air",
+			"HOA" : "None",
+			"Price/sqft" : "$150",
+			"Listed" : "8 days ago"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full, Exterior Entry",
+				"Rooms" : 4,
+				"Types of rooms" : ["1 Full Bath ", " Bar/entertainment ", " Mudroom ", " Man cave"],
+				"Bedrooms" : 4,
+				"Bathrooms" : 3.5,
+				"Bathrooms (full)" : 3,
+				"Dimensions & Layout" : "3,977 sqft"
+			}
+		},
+		"Year" : "2022",
+		"Property Tax" : "$9,658",
+		"Assessment" : "$378,446",
+		"image path" : "Bon Jour Barns",
+		"image count" : 26,
+		"status" : "DONE"
+	},
+
+    "J-Designs" : { 
+		"Address" : "42 Old Kalanianaole Rd Waimanalo, HI 96795",
+		"Total Cost" : "$525,300",
+		"Total Cost Int" : 525300,
+		"Short Description" : {"beds" : 4, "baths" : 5, "sqft" : 3502},
+		"Long Description" : "This barn home features three separate stories, as well as a basement ares. Barstools are equipped within the large kitchen, as well as lots of lighting, natural and artificial. There is a separate garage located next to the house that has another floor dedicated to storage. Finally, there is a back patio, as well as a porch that's very nice for when it's nice out.",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4418.42302596425!2d-157.74794001603394!3d21.37272434022153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7c0014bb73ec9a51%3A0xa3888be6ef5cdc1e!2s42%20Old%20Kalanianaole%20Rd%2C%20Kailua%2C%20HI%2096734!5e0!3m2!1sen!2sus!4v1674759057615!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14861.74203509357!2d-157.7540919735019!3d21.372750015931807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschools!5e0!3m2!1sen!2sus!4v1674759087644!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14861.798356615232!2d-157.75641393956465!3d21.372195172475713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674759152224!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "4 Car Garage",
+			"Outdoor" : "Front + Back Porch",
+			"AC" : "Yes",
+			"HOA" : "None",
+			"Listed" : "February 5th, 2023",
+			"Price/sqft": "$150"
+		},
+		"Details" : {
+			"Interior" : {
+				"Basement" : "Yes",
+				"Rooms" : "21",
+				"Types of rooms" : "Interior",
+				"Bedrooms" : "3",
+				"Bathrooms" : "2",
+				"Bathrooms (full)" : "2",
+				"Dimensions & Layout" : "3,502 sqft"
+			}
+		},
+		"Year" : "2022",
+		"Property Tax" : "$3,357/y",
+		"Assessment" : "N/A",
+		"image path" : "JDesigns",
+		"image count" : 36,
+		"status" : "DONE"
+	},
+		
+	"M&M Architecture" : {
+		"Address" : "9300 Page Rd",
+		"Total Cost" : "$550,000",
+		"Total Cost Int" : 550000,
+		"Short Description" : {"beds" : 3, "baths" : 2.5, "sqft" : 3671},
+		"Long Description" : "This home is two stories with a half finished basement. This home has 3 bedrooms and 2 1/2 bathrooms along with a finished office. The home is a total of 3671sqft. The home was finished with a lot of exposed wood from the barn before. ",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2961.690495264083!2d-79.83701178394756!3d42.071253061282476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88329dd835c1e221%3A0x8d121628a6fac4b!2s9300%20Page%20Rd%2C%20Wattsburg%2C%20PA%2016442!5e0!3m2!1sen!2sus!4v1674759206639!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d47387.00137514155!2d-79.86984237637296!3d42.07131541328841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshools!5e0!3m2!1sen!2sus!4v1674759238863!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d189547.32440661825!2d-79.9749044452059!3d42.07154349218491!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674759279473!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "Garage",
+			"Outdoor" : ["Deck", " Creek"],
+			"AC" : ["Heating", " Cooling"],
+			"HOA" : "None",
+			"Price/sqft" : "$150",
+			"Listed" : "17 days ago"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "N/A",
+				"Rooms" : "N/A",
+				"Types of rooms" : "N/A",
+				"Bedrooms" : 3,
+				"Bathrooms" : 3,
+				"Bathrooms (full)" : 2,
+				"Dimensions & Layout" : "N/A"
+			}
+		},
+		"Year" : "2022",
+		"Property Tax" : "$8,898",
+		"Assessment" : "$348,650",
+		"image path" : "M & M Architecture",
+		"image count" : 19,
+		"status" : "DONE"
+	},
+
+	"P & E Architects" : {
+		"Address" : "14687 County Rd 240, Durango CO 81301",
+		"Total Cost" : "$702,000",
+		"Total Cost Int" : 702000,
+		"Short Description" : {"beds" : 3, "baths" : 3, "sqft" : 4680},
+		"Long Description" : "THIS 3 BEDROOM HOME, DESIGNED BY P&E ARCHITECURE, IS LOCATED ON A QUIET STREET IN COLORADO, YET HAS QUICK ACCESS TO SHOPPING, HOSPITALS, AND ENTERTAINMENT. THE HUGE, UNFINISHED BASEMENT IS BIG AND CAN BE FINISHED TO SUIT THE NEW OWNER. A NEW ROOF WAS INSTALLED IN 2022, AS WELL AS A NEW DECK ADDED IN 2022, NEWLY CONSTRUCTED",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3171.3259795303097!2d-107.66982768402346!3d37.3584629437734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x873e9f7d9b56f06b%3A0x214dfeea9f362396!2s14687%20Co%20Rd%20240%2C%20Durango%2C%20CO%2081301!5e0!3m2!1sen!2sus!4v1674759317793!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d405351.8509054634!2d-108.04519241393876!3d37.465176218985306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschools!5e0!3m2!1sen!2sus!4v1674759351005!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d405349.52694006613!2d-108.04519314717058!3d37.465604850567935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674759378729!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "Garage",
+			"Outdoor" : "Wrap Around Decks",
+			"AC" : "heat and ac",
+			"HOA" : "None",
+			"Price/sqft" : "$150",
+			"Listed" : "10 days ago"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Full Basement",
+				"First Floor" : "5 Rooms",
+				"Second Floor" : ["5 Rooms", " Balcony"],
+				"Bedrooms" : 3,
+				"Bathrooms" : 3,
+				"Bathrooms (full)" : 3,
+				"Dimensions & Layout" : "4,680 sqft"
+			}
+		},
+		"Year" : "2022",
+		"Property Tax" : "$11,357",
+		"Assessment" : "$445,000",
+		"image path" : "P & E Architects",
+		"image count" : 36,
+		"status" : "DONE"
+	},
+
+	"Supreme Renovations" : {
+		"Address" : "5715 N Washinton Ave Emmett, Idaho",
+		"Total Cost" : "$647,700",
+		"Total Cost Int" : 647700,
+		"Short Description" : {"beds" : 4, "baths" : 4, "sqft" : 4318},
+		"Long Description" : "This home was made from a monitor barn but then was renovated into a beautiful countryside home based in Idaho. This home has the original barn beams on the ceiling of the home. It also Has a 3 car garage and a spaceious loft with the master bedroom and master bath, in the loft. This 4,318 square ft barn home has plenty of space for activities inside and out of the home with 3 outdoor concrete slab porches on the front, back and right side of the house. We welcome you to have a tour of the house in 5715 N Washington Ave Emmett in Idaho!",
+		"map1" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2872.3177331312636!2d-116.4910576839146!3d43.95279184102309!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54af0b46342e6dcd%3A0x7619ee54ff8da272!2s5715%20N%20Washington%20Ave%2C%20Emmett%2C%20ID%2083617!5e0!3m2!1sen!2sus!4v1674759411495!5m2!1sen!2sus",
+		"map2" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d45957.037111587066!2d-116.5238882677273!3d43.95285212574872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sschools!5e0!3m2!1sen!2sus!4v1674759438451!5m2!1sen!2sus",
+		"map3" : "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d183827.47396387422!2d-116.62895019626814!3d43.95307017693532!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sshop%20%26%20eat!5e0!3m2!1sen!2sus!4v1674759465932!5m2!1sen!2sus",
+		"Highlights" : {
+			"Parking" : "3 Car Garage",
+			"Outdoor" : "3 Concrete Slab Porches",
+			"AC" : "Heating & Cooling",
+			"HOA" : "None",
+			"Price/sqft" : "$150",
+			"Listed" : "1 day ago"
+		},
+		"Details" : {	
+			"Interior" : {
+				"Basement" : "Finished, 957 square footage",
+				"Rooms" : "3",
+				"Types of rooms" : ["Bathroom", " Bedroom", " Recreation Room"],
+				"Bedrooms" : 4,
+				"Bathrooms" : 4,
+				"Bathrooms (full)" : 2,
+				"Dimensions & Layout" : "N/A"
+			}
+		},
+		"Year" : "2022",
+		"Property Tax" : "$10,464",
+		"Assessment" : "$409,994",
+		"image path" : "Supreme Renovations",
+		"image count" : 30,
+		"status" : "DONE"
+	}
+}

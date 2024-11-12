@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/styles.css">
+    <title>Dream House Listings</title>
+</head>
+<body>
+    <header>
+        <h1>Awesome Realty</h1>
+    </header>
+    <main>
+        <div id="image-modal" class="modal">
+            <span class="close-button" onclick="closeModal()">&times;</span>
+            <div class="modal-content" id="modal-image-container">
+            </div>
+        </div>
+        
+        <div class="property-info">
+            <div class="gallery">
+
+                <img id="main-image" src= "" alt="Property Image" />
+                <div class="thumbnails" id="thumbnails-container"></div>
+                <button onclick="viewAllImages()">View All Images</button>
+            </div>
+            
+            <div id="image-modal" class="modal">
+                <span class="close-button" onclick="closeModal()">&times;</span>
+                <div class="modal-content" id="modal-image-container">
+                    <img id="modal-image" alt="Property Image" />
+                    <button id="prev-button" onclick="prevImage()">Previous</button>
+                    <button id="next-button" onclick="nextImage()">Next</button>
+                </div>
+            </div>
+            <div class="details">
+                <div class="prop-details1">
+                    <p id="property-price"></p>
+                </div>
+                <br>
+                <div class="prop-details2">
+                    <p id="property-address"></p>
+                </div>
+                <br>
+                <p><img id="icon"src="Images/Icons/BedIcon.jpg" alt=""> <span id="beds"></span> beds </p>
+                <p><img id="icon" src="Images/Icons/BathIcon.jpg" alt=""><span id="baths"></span> baths</p>
+                <p><img id="icon" src="Images/Icons/square-feet.jpg" alt=""> <span id="sqft"></span> sqft</p>
+                <br>
+                <br>
+                <p><strong>Description:</strong> <span id="description"></span></p>
+                <br>
+                <br>
+                <p><strong>Developer:</strong> <span id="developer"></span></p>
+
+                <h3>Home Highlights</h3>
+                <ul id="highlights">
+                </ul>
+                <h3>Home Details</h3>
+                <ul id="interior-details"></ul>
+            </div>
+            <h3>Similar Homes</h3>
+            <div id="similar-homes" class="similar-homes"></div>
+            <h3>Property Taxes</h3>
+            <table id="taxes-table"></table>
+            <h3>Affordability Calculator</h3>
+            <div>
+                <label for="down-payment">Down Payment (%):</label>
+                <input type="number" id="down-payment" value="20" />
+                <label for="interest-rate">Interest Rate (%):</label>
+                <input type="number" id="interest-rate" value="3.5" />
+                <p>Your estimated payment is: <span id="monthly-payment">$0</span> per month</p>
+            </div>
+        </div>
+    </main>
+    <script src="JavaScript/app.js"></script>
+</body>
+</html> 
